@@ -1,0 +1,21 @@
+# obesity_level_analysis
+Cluster Analysis and Feature Selection 
+
+Analysis of Obesity Levels including cluster analysis for data exploration, classification, and feature selection to analyze a dataset
+containing obesity levels among adults from Mexico, Peru, and Columbia and determine which specific eating habit or daily activities most
+affect the classification of obsesity levels. 
+
+The dataset was obtained from the University of California Irvine (UCI) Machine Learning Repository. 
+
+The approach and methodology begins with data preprocessing and cluster analysis. Cluster analysis is performend as an exploratory analysis to
+determine any patterns in the data and if any patterns existed when age groups are binned to generational groups. Next several classifiers models
+are fit to the dataset including K-NN, Decision Tree, Gradient Descent, and SVM, and models are evaluated using a classification report for best
+performance. Lastly, the best performing model, in this case, Decision Tree, is used to perform feature selection and the top 15% of the most 
+important features are selected and compared to determine which attributes are most salient in classifying obesity levels. 
+
+Methodology:
+1. Data Preprocessing: Data Exploration and Feature Transformations 
+2. Cluster Analysis Exploration 
+3. Classification and Model Selection
+4. Feature Selection 
+5. Results and Conclusion 

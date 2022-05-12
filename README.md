@@ -1,5 +1,7 @@
-# obesity_level_analysis
-Cluster Analysis and Feature Selection 
+# Obesity Level Analysis of Adult Population in Latin America 
+<i> Machine Learning Project for DSC478: Programming Machine Learning Applications at DePaul University </i>
+Highlights: Cluster Analysis and Feature Selection using Decision Trees
+
 
 Analysis of Obesity Levels including cluster analysis for data exploration, classification, and feature selection to analyze a dataset
 containing obesity levels among adults from Mexico, Peru, and Columbia and determine which specific eating habit or daily activities most

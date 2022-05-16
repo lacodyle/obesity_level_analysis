@@ -7,7 +7,7 @@ Analysis of Obesity Levels including cluster analysis for data exploration, clas
 containing obesity levels among adults from Mexico, Peru, and Columbia and determine which specific eating habit or daily activities most
 affect the classification of obsesity levels. 
 
-The dataset was obtained from the University of California Irvine (UCI) Machine Learning Repository. 
+The <a href="https://archive.ics.uci.edu/ml/datasets/Estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition+">dataset</a> was obtained from the University of California Irvine (UCI) Machine Learning Repository. 
 
 The approach and methodology begins with data preprocessing and cluster analysis. Cluster analysis is performend as an exploratory analysis to
 determine any patterns in the data and if any patterns existed when age groups are binned to generational groups. Next several classifiers models
